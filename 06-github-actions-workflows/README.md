@@ -1,4 +1,4 @@
-# Primeiros Passos com o GitHub Actions - Parte 1
+# Laboratório Prático: Pipeline no Github Actions (Workflows)
 
 *Este guia é baseado no artigo original de [Ieso Dias](https://www.iesodias.com/post/primeiros-passos-com-o-github-actions-parte-1).*
 
