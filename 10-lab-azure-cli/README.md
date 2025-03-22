@@ -113,8 +113,3 @@ curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
 ```
 
 ---
-
-Com isso você tem um conjunto prático de comandos para explorar recursos Azure direto da linha de comando
-
-Todos os comandos acima foram selecionados para evitar a exibição de dados sensíveis durante gravações ou demonstrações públicas ✅
-
